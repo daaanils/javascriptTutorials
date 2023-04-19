@@ -1,5 +1,4 @@
 
-const numbers = [1, 2, 4, 5, 6, 7]
 
 const double = (numbers) => {
     let result = []
@@ -10,3 +9,7 @@ const double = (numbers) => {
 
     return result
 }
+
+
+
+console.log(double([1, 2, 3, 4, 5, 6, 7]))
